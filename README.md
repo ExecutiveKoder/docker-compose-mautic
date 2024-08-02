@@ -247,3 +247,4 @@ The links to [Digital Ocean](https://m.do.co/c/d0ce234a41be) in this readme are 
 - [ ] MySql replica.
 - [x] Download the setup-dc.log from the droplet to GH Action files for easier inspection.
 - [x] Make the crontab configurable in this repository.
+- 
