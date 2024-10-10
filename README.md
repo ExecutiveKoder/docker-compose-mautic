@@ -2,7 +2,7 @@
 
 This is a real example of automate hosting Mautic 5 instance(s) on Virtual Private Server (VPS) on [digitalocean.com](https://m.do.co/c/d0ce234a41be)
 
-## Is this for you? 
+## Is this for you?
 
 Hosting a web app is not an easy job. You need the technical knowledge and the time to maintain it. This repositry will help but it still requires both. Especially over time.
 
